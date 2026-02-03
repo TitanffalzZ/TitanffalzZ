@@ -1,4 +1,4 @@
-### Olá eu sou Wigner e estou estudando Ti
+### Olá eu estou estudando Ti
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white%29)](https://www.instagram.com/wigner.silva.52/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white%29)](https://www.youtube.com/channel/UC5R137R1avC7vbX-CWIuZ0w)
