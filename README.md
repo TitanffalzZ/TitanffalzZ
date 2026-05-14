@@ -1,13 +1,8 @@
 ### Olá eu estou estudando Ti
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white%29)](https://www.instagram.com/wigner.silva.52/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white%29)](https://www.youtube.com/channel/UC5R137R1avC7vbX-CWIuZ0w)
 [![Xbox](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/pt-BR/play/user/TitanffalzZ)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wigner.silva.52/)
 
-![Wigner's Github stats](https://github-readme-stats.vercel.app/api?username=TitanffalzZ&show_icons=true&theme=ambient_gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TitanffalzZ&layout=compact)
+
 
 
 
